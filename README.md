@@ -1,6 +1,8 @@
 # Swagger JS library
 
 [![Build Status](https://travis-ci.org/swagger-api/swagger-js.svg?branch=master)](https://travis-ci.org/swagger-api/swagger-js)
+[![PR Stats](http://issuestats.com/github/swagger-api/swagger-js/badge/pr)](http://issuestats.com/github/swagger-api/swagger-js) [![Issue Stats](http://issuestats.com/github/swagger-api/swagger-js/badge/issue)](http://issuestats.com/github/swagger-api/swagger-js)
+
 
 This is the Swagger javascript client for use with [swagger](http://swagger.io) enabled APIs.
 It's written in javascript and tested with mocha, and is the fastest way to enable a javascript client to communicate with a swagger-enabled server.
